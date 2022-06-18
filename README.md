@@ -1,5 +1,7 @@
 # Interview Scheduler Dashboard
 
+New
+
 ## Setup
 
 Install dependencies with `npm install`.
