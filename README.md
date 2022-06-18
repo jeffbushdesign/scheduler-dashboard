@@ -1,6 +1,9 @@
 # Interview Scheduler Dashboard
 
-New
+Interview Scheduler Dashboard is a project that provides a starting point to learn about components built using JavaScript classes.
+
+- The src/helpers folder provides functions we can use to manage data
+- The src/components folder contains a single Dashboard component.
 
 ## Setup
 
